@@ -12,7 +12,7 @@ module.exports = {
             patterns: [
                 {
                     from: "./index.html",
-                    to: "./public/"
+                    to: "./"
                 }
             ]
         })
